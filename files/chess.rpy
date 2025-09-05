@@ -4,247 +4,247 @@
 translate ptbr game_chess_f85b6700:
 
     # m "Let's continue our unfinished game."
-    m ""
+    m "Vamos continuar o jogo que não terminamos."
 
 # game/chess.rpy:782
 translate ptbr game_chess_3507e2a3:
 
     # m 2wfw "[player]!"
-    m 2wfw ""
+    m 2wfw "[player]!"
 
 # game/chess.rpy:783
 translate ptbr game_chess_5e027179:
 
     # m 2wfx "You removed the save again."
-    m 2wfx ""
+    m 2wfx "Você apagou o save da partida de novo."
 
 # game/chess.rpy:785
 translate ptbr game_chess_8bc6286c:
 
     # m 2rfc "Let's just play chess at another time, then."
-    m 2rfc ""
+    m 2rfc "Vamos jogar xadrez em outro momento, então."
 
 # game/chess.rpy:849
 translate ptbr game_chess_9be668f3:
 
     # m 1eua "We still have an unfinished game in progress."
-    m 1eua ""
+    m 1eua "Ainda temos uma partida que não terminamos."
 
 # game/chess.rpy:854
 translate ptbr game_chess_load_check_b01706c4:
 
     # m 1efb "Get ready!"
-    m 1efb ""
+    m 1efb "Se prepare!"
 
 # game/chess.rpy:937
 translate ptbr mas_chess_remenu_0da28271:
 
     # m "How would you like to play?[('{fast}' if loopback else '')]" nointeract
-    m "" nointeract
+    m "Como você gostaria de jogar? [('{fast}' if loopback else '')]" nointeract
 
 # game/chess.rpy:947
 translate ptbr mas_chess_remenu_6b6b37ac:
 
     # m 1ekc "...Alright, [player].{w=0.3} I was really looking forward to playing with you."
-    m 1ekc ""
+    m 1ekc "...Tudo bem, [player].{w=0.3} Eu realmente estava ansiosa para jogar com você."
 
 # game/chess.rpy:948
 translate ptbr mas_chess_remenu_51dbe566:
 
     # m 1eka "We'll play another time though, right?"
-    m 1eka ""
+    m 1eka "Mas vamos jogar outra hora, né?"
 
 # game/chess.rpy:968
 translate ptbr mas_chess_remenu_e87a6bf1:
 
     # m 1eub "Sure! {w=0.2}{nw}"
-    m 1eub ""
+    m 1eub "Claro! {w=0.2}{nw}"
 
 # game/chess.rpy:969
 translate ptbr mas_chess_remenu_441eccc5:
 
     # extend 1eua "Naturally, {i}Normal Chess{/i} means standard chess."
-    extend 1eua ""
+    extend 1eua "Naturalmente, o {i}Xadrez Normal{/i} significa o xadrez padrão."
 
 # game/chess.rpy:970
 translate ptbr mas_chess_remenu_2119bcd1:
 
     # m 3eua "Then there's {i}Randomized Chess{/i}, a mode based on {i}Really Bad Chess{/i}."
-    m 3eua ""
+    m 3eua "Depois temos o {i}Xadrez Aleatório{/i}, um modo baseado no {i}Really Bad Chess{/i}."
 
 # game/chess.rpy:971
 translate ptbr mas_chess_remenu_8bf8baa4:
 
     # m 3eub "We get completely random pieces which adds the factor of luck to make it fun for players of any skill level."
-    m 3eub ""
+    m 3eub "Recebemos peças completamente aleatórias, o que adiciona um fator de sorte e deixa o jogo divertido pra jogadores de qualquer nível."
 
 # game/chess.rpy:972
 translate ptbr mas_chess_remenu_a701c0b9:
 
     # m 1eua "Alternatively, there's a more fair random chess mode called {i}Chess 960{/i}, also known as {i}Fischer Random Chess{/i}."
-    m 1eua ""
+    m 1eua "Ou então, temos uma versão mais justa do xadrez aleatório chamada {i}Xadrez 960{/i}, também conhecido como {i}Xadrez Aleatório de Fischer{/i}."
 
 # game/chess.rpy:973
 translate ptbr mas_chess_remenu_4fe52604:
 
     # m 3eud "In this mode, the pieces in the back row are randomly shuffled while ensuring the bishops are placed on opposite color squares and the king is placed between two rooks."
-    m 3eud ""
+    m 3eud "Nesse modo, as peças da fileira de trás são embaralhadas aleatoriamente, mas garantindo que os bispos fiquem em casas de cores opostas e que o rei fique entre duas torres."
 
 # game/chess.rpy:974
 translate ptbr mas_chess_remenu_0a2b0e5d:
 
     # m 4hua "There's 960 possible starting positions, so it was called {i}Chess 960{/i}."
-    m 4hua ""
+    m 4hua "Existem 960 posições iniciais possíveis, por isso o nome {i}Xadrez 960{/i}."
 
 # game/chess.rpy:975
 translate ptbr mas_chess_remenu_dada6bbd:
 
     # m 1eua "{i}Chess 960{/i} allows players to avoid the complex opening theory while still testing their understanding of chess."
-    m 1eua ""
+    m 1eua "O {i}Xadrez 960{/i} permite que os jogadores evitem toda a teoria de abertura complexa, mas ainda testem seu entendimento do xadrez."
 
 # game/chess.rpy:976
 translate ptbr mas_chess_remenu_f696f215:
 
     # m 1etu "So which mode do you prefer? {w=0.3}{nw}"
-    m 1etu ""
+    m 1etu "Então, qual modo você prefere? {w=0.3}{nw}"
 
 # game/chess.rpy:977
 translate ptbr mas_chess_remenu_278fdfc1:
 
     # extend 1hub "Ahaha~"
-    extend 1hub ""
+    extend 1hub "Ahaha~"
 
 # game/chess.rpy:988
 translate ptbr mas_chess_remenu_1e07b804:
 
     # m 1eua "If we play with casual rules, we just won't count stalemates as draws.{w=0.2} {nw}"
-    m 1eua ""
+    m 1eua "Se jogarmos com as regras casuais, quando um dos jogadores ficar sem jogadas, ele perde em vez de empatar.{w=0.2} {nw}"
 
 # game/chess.rpy:989
 translate ptbr mas_chess_remenu_1c1f75b5:
 
     # extend 3eub "Essentially, the player who is not trapped is declared the winner."
-    extend 3eub ""
+    extend 3eub "Basicamente, quem ainda puder mexer as peças vence."
 
 # game/chess.rpy:1068
 translate ptbr mas_chess_start_chess_0cc24a7f:
 
     # m 1ekc "Don't give up so easily..."
-    m 1ekc ""
+    m 1ekc "Não desista tão fácil assim..."
 
 # game/chess.rpy:1069
 translate ptbr mas_chess_start_chess_6f1757c0:
 
     # m 1eka "I'm sure if you keep trying, you can beat me."
-    m 1eka ""
+    m 1eka "Tenho certeza de que se você continuar tentando, você vai conseguir me vencer."
 
 # game/chess.rpy:1070
 translate ptbr mas_chess_start_chess_f15775ec:
 
     # m 1ekc "..."
-    m 1ekc ""
+    m 1ekc "..."
 
 # game/chess.rpy:1071
 translate ptbr mas_chess_start_chess_4fc7f6cc:
 
     # m 1eka "I hope you don't get frustrated when you play with me."
-    m 1eka ""
+    m 1eka "Espero que você não fique frustrado quando joga comigo."
 
 # game/chess.rpy:1072
 translate ptbr mas_chess_start_chess_8d8da5bc:
 
     # m 3ekb "It really means a lot to me that you keep playing if you do~"
-    m 3ekb ""
+    m 3ekb "Significa muito pra mim que você continue jogando, se for o caso~"
 
 # game/chess.rpy:1073
 translate ptbr mas_chess_start_chess_ff4c9b5d:
 
     # m 3hua "Let's play again soon, alright?"
-    m 3hua ""
+    m 3hua "Vamos jogar de novo em breve, tá bom?"
 
 # game/chess.rpy:1076
 translate ptbr mas_chess_start_chess_0234ec52:
 
     # m 1ekc "Giving up, [player]?"
-    m 1ekc ""
+    m 1ekc "Desistindo, [player]?"
 
 # game/chess.rpy:1077
 translate ptbr mas_chess_start_chess_77e4d9e7:
 
     # m 1eub "Alright, but even if things aren't going too well, it's more fun to play to the end!"
-    m 1eub ""
+    m 1eub "Tudo bem, mas mesmo quando as coisas não estão indo tão bem, é mais divertido jogar até o fim!"
 
 # game/chess.rpy:1078
 translate ptbr mas_chess_start_chess_6586871a:
 
     # m 3eka "In the end, I'm just happy to be spending time with you~"
-    m 3eka ""
+    m 3eka "No fim das contas, eu só fico feliz de passar um tempo com você~"
 
 # game/chess.rpy:1079
 translate ptbr mas_chess_start_chess_fe9c0937:
 
     # m 1eua "Anyway..."
-    m 1eua ""
+    m 1eua "Enfim..."
 
 # game/chess.rpy:1083
 translate ptbr mas_chess_start_chess_2377db7a:
 
     # m 1sub "I won, yay!~"
-    m 1sub ""
+    m 1sub "Eu ganhei, eba!~"
 
 # game/chess.rpy:1096
 translate ptbr mas_chess_start_chess_fe9c0937_1:
 
     # m 1eua "Anyway..."
-    m 1eua ""
+    m 1eua "De qualquer forma..."
 
 # game/chess.rpy:1110
 translate ptbr mas_chess_start_chess_ed69febf:
 
     # m 1eua "Sure, we'll call this game a draw."
-    m 1eua ""
+    m 1eua "Tudo bem, vamos considerar essa partida um empate."
 
 # game/chess.rpy:1111
 translate ptbr mas_chess_start_chess_7fc09fe5:
 
     # m 3wuo "That was a pretty long game!"
-    m 3wuo ""
+    m 3wuo "Foi uma partida bem longa, hein!"
 
 # game/chess.rpy:1115
 translate ptbr mas_chess_start_chess_dacd03c3:
 
     # m 1eka "Aw, looks like we have a stalemate."
-    m 1eka ""
+    m 1eka "Ah, parece que tivemos um empate técnico."
 
 # game/chess.rpy:1119
 translate ptbr mas_chess_start_chess_52127a00:
 
     # m 3hub "[line_start], you're getting closer and closer to beating me, [player]~"
-    m 3hub ""
+    m 3hub "[line_start], você tá cada vez mais perto de me vencer, [player]~"
 
 # game/chess.rpy:1122
 translate ptbr mas_chess_start_chess_27c4f439:
 
     # m 1hua "Nice work on getting this far, [player]~"
-    m 1hua ""
+    m 1hua "Você foi [oti] por ter chegado tão longe, [player]~"
 
 # game/chess.rpy:1145
 translate ptbr mas_chess_start_chess_8af96f98:
 
     # m 3hub "Congratulations [player], you won!"
-    m 3hub ""
+    m 3hub "Meus parabéns [player], você venceu!"
 
 # game/chess.rpy:1149
 translate ptbr mas_chess_start_chess_703c118d:
 
     # m 1wuo "You didn't undo a single move!{w=0.2} {nw}"
-    m 1wuo ""
+    m 1wuo "Você não desfez um único movimento!{w=0.2} {nw}"
 
 # game/chess.rpy:1150
 translate ptbr mas_chess_start_chess_bfd152d9:
 
     # extend 3hub "That's amazing!"
-    extend 3hub ""
+    extend 3hub "Isso é incrível!"
 
 # game/chess.rpy:1153
 translate ptbr mas_chess_start_chess_30b0216b:
